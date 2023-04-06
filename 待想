@@ -1,0 +1,13 @@
+echo "# -" >> README.md
+
+初始化
+
+git 添加 README.md
+
+git commit -m “第一次提交”
+
+git 分支 -M main
+
+git 遠程添加源 https://github.com/czz119/-.git
+
+ git push -你起源主要的
